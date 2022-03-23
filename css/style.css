@@ -1,15 +1,15 @@
 /* Created by: Grace S
 * Created on: Mar 2022
 * This CSS file defines the style for index.html
-* ICS2O-Unit2-01-HTML-JS-HelloWorld
+* ICS2O-Unit2-02-HTML-AreaPerRectangle
 */
 
 body {
-	background-color: LightGreen;
+	background-color:#9FE2BF;
 }
 
 h1 {
-	background-color: #f0b2e8;
+	background-color: rgb(64, 224, 208 );
 	color: hsl(0, 0%, 0%);
 	padding: 40px;
 	text-align: center;
@@ -23,5 +23,5 @@ div {
 }
 
 p {
-	font-size:20px;
+	font-size:30px;
 }
